@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SCHCOOLBANK"
+    }
+  },
+  "defaultProject": "SCHCOOLBANK",
+  "cli": {
+    "analytics": "80dfb145-b0b7-4d5d-9adb-3d59e36b1d37"
+  }
 }
